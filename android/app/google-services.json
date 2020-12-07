@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "749140363626",
+    "firebase_url": "https://hovo-na2l-t2el.firebaseio.com",
+    "project_id": "hovo-na2l-t2el",
+    "storage_bucket": "hovo-na2l-t2el.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749140363626:android:7018d276f02445bebebd13",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749140363626-qq52og5dacq2lh8jljpc8l2jr0roh62f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin",
+            "certificate_hash": "352ddaa3f1d129b0c602614a59047452e5499ba5"
+          }
+        },
+        {
+          "client_id": "749140363626-1v3h2btlh3egf39kqfh08nnedk7d7s9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgqcmxziyubO4w4fO1vcRiQ5rNrlxa32Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749140363626-1v3h2btlh3egf39kqfh08nnedk7d7s9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749140363626:android:33d65a2407161eabbebd13",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749140363626-pua4h18c17ufcu6622o1t0gcjviosiq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "352ddaa3f1d129b0c602614a59047452e5499ba5"
+          }
+        },
+        {
+          "client_id": "749140363626-1v3h2btlh3egf39kqfh08nnedk7d7s9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgqcmxziyubO4w4fO1vcRiQ5rNrlxa32Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749140363626-1v3h2btlh3egf39kqfh08nnedk7d7s9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749140363626:android:77c14d28e649256ebebd13",
+        "android_client_info": {
+          "package_name": "com.hypertrack.live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749140363626-1v3h2btlh3egf39kqfh08nnedk7d7s9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgqcmxziyubO4w4fO1vcRiQ5rNrlxa32Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749140363626-1v3h2btlh3egf39kqfh08nnedk7d7s9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

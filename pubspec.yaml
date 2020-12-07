@@ -1,0 +1,39 @@
+name: admin
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+  animated_splash_screen: ^1.0.1+1
+  permission_handler: ^5.0.1+1
+  location_permissions: ^3.0.0+1
+  location: ^3.0.0
+  google_maps_flutter: ^0.5.33
+  firebase_auth: ^0.18.3+1
+  firebase_database: ^4.3.0
+  cloud_firestore: ^0.14.3+1
+  image_picker: ^0.6.7+14
+  firebase_storage: ^5.1.0
+  geolocator: ^6.1.8+1
+  geocoder: ^0.2.1
+  cupertino_icons: ^1.0.0
+  url_launcher: ^5.4.10
+  google_map_location_picker:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - images/trucks/
+    - images/marker/
+    - images/
+  uses-material-design: true
